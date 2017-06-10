@@ -19,5 +19,4 @@
             "Artaora\\LaravelGoogleAuth": "src/"
         }
     },
-    "minimum-stability": "dev"
 }
