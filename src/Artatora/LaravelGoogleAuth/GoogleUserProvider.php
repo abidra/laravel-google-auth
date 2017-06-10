@@ -1,4 +1,5 @@
-<?php namespace Themonkeys\LaravelGoogleAuth;
+<?php 
+namespace Aratora\LaravelGoogleAuth;
 
 use Illuminate\Auth\UserInterface;
 use Illuminate\Auth\UserProviderInterface;

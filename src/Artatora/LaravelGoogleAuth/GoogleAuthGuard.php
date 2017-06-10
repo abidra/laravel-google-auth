@@ -1,6 +1,6 @@
 <?php
 
-namespace Themonkeys\LaravelGoogleAuth;
+namespace Aratora\LaravelGoogleAuth;
 
 
 use Illuminate\Auth\Guard;
