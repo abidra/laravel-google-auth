@@ -18,5 +18,5 @@
         "psr-0": {
             "Artaora\\LaravelGoogleAuth": "src/"
         }
-    },
+    }
 }
